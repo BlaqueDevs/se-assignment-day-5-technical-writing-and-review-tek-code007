@@ -28,7 +28,7 @@ Make the headings brief and concise.
 Do not use full stops in the headings or subheading.                                                                                                                                                                Make sure there is slightly more passive space above a heading than below it.
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 The project title that is clear and concise and talks about the nature of the project.
-The project description that gives a high overview of what the project does, why it exists and it's objectives.It should also be simple and concise.
+The project description that gives an overview of what the project does, why it exists and it's objectives.It should also be simple and concise.
 ## 12. How can you succinctly convey the purpose and key features of a product?
 By understanding your target audience and always focusing on them.
 Tell a story as an interesting story has a conflict and resolution that tends to resonate with the audience.
